@@ -1,2 +1,2 @@
 # manicuría
-Sistema para control de turnos y actividad de empleadas dentro de un salón de manicuría
+Sistema para control de turnos dentro de un salón de manicuría
